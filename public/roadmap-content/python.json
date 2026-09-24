@@ -323,26 +323,10 @@
       }
     ]
   },
-  "DG4fi1e5ec2BVckPLsTJS": {
-    "title": "Hash Tables",
-    "description": "Hash Table, Map, HashMap, Dictionary or Associative are all the names of the same data structure. It is a data structure that implements a set abstract data type, a structure that can map keys to values.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Build a Hash Table in Python",
-        "url": "https://realpython.com/python-hash-table/",
-        "type": "article"
-      },
-      {
-        "title": "Hash Tables and Hashmaps in Python",
-        "url": "https://www.edureka.co/blog/hash-tables-and-hashmaps-in-python/",
-        "type": "article"
-      },
-      {
-        "title": "Hash Table Data Structure | Illustrated Data Structures",
-        "url": "https://www.youtube.com/watch?v=jalSiaIi8j4",
-        "type": "video"
-      }
-    ]
+  "hashmaps@DG4fi1e5ec2BVckPLsTJS.md": {
+    "title": "HashMaps",
+    "description": "",
+    "links": []
   },
   "uJIqgsqUbE62Tyo3K75Qx": {
     "title": "Binary Search Tree",
@@ -612,21 +596,10 @@
     "description": "Inheritance is a fundamental concept in object-oriented programming (OOP) that allows one class to inherit the properties and behavior of another class.\n\nVisit the following resources to learn more:",
     "links": []
   },
-  "zAS4YiEJ6VPsyABrkIG8i": {
-    "title": "Methods, Dunder",
-    "description": "A method in python is somewhat similar to a function, except it is associated with object/classes. Methods in python are very similar to functions except for two major differences.\n\n*   The method is implicitly used for an object for which it is called.\n*   The method is accessible to data that is contained within the class.\n\nDunder or magic methods in Python are the methods that have two prefix and suffix underscores in the method name. Dunder here means “Double Under (Underscores)”. These are commonly used for operator overloading. Few examples for magic methods are: **`__init__`**, **`__add__`**, **`__len__`**, **`__repr__`** etc.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Method vs Function in Python",
-        "url": "https://www.tutorialspoint.com/difference-between-method-and-function-in-python",
-        "type": "article"
-      },
-      {
-        "title": "Python - Magic or Dunder Methods",
-        "url": "https://www.tutorialsteacher.com/python/magic-methods-in-python",
-        "type": "article"
-      }
-    ]
+  "methods@zAS4YiEJ6VPsyABrkIG8i.md": {
+    "title": "Methods",
+    "description": "",
+    "links": []
   },
   "qeCMw-sJ2FR4UxvU9DDzv": {
     "title": "Package Managers",
@@ -1325,22 +1298,6 @@
       }
     ]
   },
-  "SSnzpijHLO5_l7DNEoMfx": {
-    "title": "nose",
-    "description": "Nose is another opensource testing framework that extends `unittest` to provide a more flexible testing framework. Note that Nose is no longer maintained and `pytest` is considered the replacement.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Introduction to Nose",
-        "url": "https://nose.readthedocs.io/en/latest/",
-        "type": "article"
-      },
-      {
-        "title": "Getting Started With Nose In Python",
-        "url": "https://www.lambdatest.com/blog/selenium-python-nose-tutorial/",
-        "type": "article"
-      }
-    ]
-  },
   "3FDwJpesfelEyJrNWtm0V": {
     "title": "pytest",
     "description": "pytest is a mature full-featured Python testing tool that helps you write better programs.\n\nVisit the following resources to learn more:",
@@ -1409,5 +1366,60 @@
         "type": "article"
       }
     ]
+  },
+  "working-with-strings@Sg5w8zO2Ji-uDJKEoWey9.md": {
+    "title": "Working with Strings",
+    "description": "",
+    "links": []
+  },
+  "file-handling@Nf3kRDSl_vas6QPXG7eVa.md": {
+    "title": "File Handling",
+    "description": "",
+    "links": []
+  },
+  "pdm@xDgXISgVUMRHh9hu4h6Hl.md": {
+    "title": "pdm",
+    "description": "",
+    "links": []
+  },
+  "encapsulation@3dC2o3WXdx4plFhDP2Vqk.md": {
+    "title": "Encapsulation",
+    "description": "",
+    "links": []
+  },
+  "variable-scope@3RNy7Sp28d-NMx0Yh4bdx.md": {
+    "title": "Variable Scope",
+    "description": "",
+    "links": []
+  },
+  "glob@bqnwMKY4R0rirup3q_hb_.md": {
+    "title": "glob",
+    "description": "",
+    "links": []
+  },
+  "operators@so95CO6Qw3I0S98ISENS-.md": {
+    "title": "Operators",
+    "description": "",
+    "links": []
+  },
+  "comments@__ndo1gcuUUtzmBnMIAbR.md": {
+    "title": "Comments",
+    "description": "",
+    "links": []
+  },
+  "type-annot@syV0DT_3ITgIFDbwPts8i.md": {
+    "title": "Type Annot.",
+    "description": "",
+    "links": []
+  },
+  "@tbR_h9NpZ5tBTYuCfwkcY.md": {
+    "title": "@",
+    "description": "",
+    "links": []
+  },
+  "error-handling@4XqSkc3Tuub-ZVXvGfMIT.md": {
+    "title": "Error Handling",
+    "description": "",
+    "links": []
   }
 }
