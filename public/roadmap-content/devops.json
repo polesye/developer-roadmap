@@ -1313,17 +1313,6 @@
       }
     ]
   },
-  "eJZdjheptmiwKsVokt7Io": {
-    "title": "Contabo",
-    "description": "Contabo is a German web hosting and dedicated server provider known for offering affordable virtual private servers (VPS) and dedicated servers with high performance specifications. They provide a range of hosting solutions, including shared hosting, VPS, dedicated servers, and storage solutions, catering to both individual developers and businesses. Contabo is particularly popular among budget-conscious users for its competitive pricing on high-resource VPS plans. Their services include features like SSD storage, DDoS protection, and data centers in multiple locations. While not as well-known as some larger cloud providers, Contabo has gained a reputation in the hosting community for offering good value for money, especially for users requiring substantial computing resources at lower costs.\n\nVisit the following link to learn more:",
-    "links": [
-      {
-        "title": "Contabo",
-        "url": "https://contabo.com/",
-        "type": "article"
-      }
-    ]
-  },
   "RDLmML_HS2c8J4D_U_KYe": {
     "title": "FTP / SFTP",
     "description": "FTP (File Transfer Protocol) is a standard network protocol used for transferring files between a client and a server on a computer network. It operates on a client-server model, typically using separate control and data connections between the client and server. FTP allows users to upload, download, and manage files on remote systems, supporting both authenticated and anonymous access. While widely used for its simplicity and compatibility, FTP has security limitations as it transmits data and credentials in plain text. As a result, more secure alternatives like SFTP (SSH File Transfer Protocol) and FTPS (FTP Secure) have gained popularity for sensitive data transfers. Despite its age, FTP remains in use for various file transfer needs, especially in legacy systems and where security is less critical.\n\nSFTP (SSH File Transfer Protocol) is a secure file transfer protocol that provides file access, transfer, and management functionalities over a secure shell (SSH) data stream. It's designed as an extension of SSH to offer secure file transfer capabilities. SFTP encrypts both commands and data in transit, protecting against eavesdropping and man-in-the-middle attacks. Unlike traditional FTP, SFTP uses a single connection and doesn't separate control and data channels. It supports features like resuming interrupted transfers, directory listings, and remote file removal. SFTP is widely used in enterprise environments for secure file transfers, automated scripts, and as a more secure alternative to FTP. Its integration with SSH makes it a preferred choice for system administrators and developers working with remote systems securely.\n\nVisit the following resources to learn more:",
@@ -2178,32 +2167,6 @@
       }
     ]
   },
-  "-pGF3soruWWxwE4LxE5Vk": {
-    "title": "Travis CI",
-    "description": "Travis CI is a cloud-based continuous integration (CI) service that automatically builds and tests code changes in GitHub repositories. It helps streamline the software development process by automatically running tests and building applications whenever code is pushed or a pull request is made. Travis CI supports a variety of programming languages and provides integration with other tools and services, offering features like build matrix configurations, deployment pipelines, and notifications. Its ease of setup and integration with GitHub makes it a popular choice for open-source and private projects looking to implement CI/CD practices.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Travis CI Documentation",
-        "url": "https://docs.travis-ci.com/",
-        "type": "article"
-      },
-      {
-        "title": "Travis CI Tutorial",
-        "url": "https://docs.travis-ci.com/user/tutorial/",
-        "type": "article"
-      },
-      {
-        "title": "Explore top posts about CI/CD",
-        "url": "https://app.daily.dev/tags/cicd?ref=roadmapsh",
-        "type": "article"
-      },
-      {
-        "title": "Travis CI Complete Tutorial for DevOps Engineers",
-        "url": "https://www.youtube.com/watch?v=xLWDOLhTH38",
-        "type": "video"
-      }
-    ]
-  },
   "1-JneOQeGhox-CKrdiquq": {
     "title": "Circle CI",
     "description": "CircleCI is a popular continuous integration and continuous delivery (CI/CD) platform that automates the build, test, and deployment processes of software projects. It supports a wide range of programming languages and integrates with various version control systems, primarily GitHub and Bitbucket. CircleCI uses a YAML configuration file to define pipelines, allowing developers to specify complex workflows, parallel job execution, and custom environments. It offers features like caching, artifact storage, and Docker layer caching to speed up builds. With its cloud-based and self-hosted options, CircleCI provides scalable solutions for projects of all sizes, helping teams improve code quality, accelerate release cycles, and streamline their development workflows.\n\nVisit the following resources to learn more:",
@@ -2225,26 +2188,10 @@
       }
     ]
   },
-  "TsXFx1wWikVBVoFUUDAMx": {
-    "title": "Drone",
-    "description": "Drone is an open-source continuous integration (CI) platform built on container technology. It automates building, testing, and deploying code using a simple, YAML-based pipeline configuration stored alongside the source code. Drone executes each step of the CI/CD process in isolated Docker containers, ensuring consistency and reproducibility. It supports multiple version control systems, offers parallel execution of pipeline steps, and provides plugins for integrating with various tools and services. Drone's lightweight, scalable architecture makes it suitable for projects of all sizes, from small teams to large enterprises. Its focus on simplicity and containerization aligns well with modern DevOps practices and microservices architectures.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Drone",
-        "url": "https://www.drone.io/",
-        "type": "article"
-      },
-      {
-        "title": "Drone Documentation",
-        "url": "https://docs.drone.io/",
-        "type": "article"
-      },
-      {
-        "title": "Drone CI Quickstart",
-        "url": "https://www.youtube.com/watch?v=Qf8EHRzAgHQ",
-        "type": "video"
-      }
-    ]
+  "octopus-deploy@TsXFx1wWikVBVoFUUDAMx.md": {
+    "title": "Octopus Deploy",
+    "description": "",
+    "links": []
   },
   "L000AbzF3oLcn4B1eUIYX": {
     "title": "TeamCity",
@@ -3206,31 +3153,10 @@
       }
     ]
   },
-  "wNguM6-YEznduz3MgBCYo": {
-    "title": "Application Monitoring",
-    "description": "Application monitoring involves the continuous observation and analysis of software applications to ensure they perform optimally, identify issues, and provide insights into their operation. This process includes tracking metrics such as response times, error rates, resource utilization (CPU, memory, and disk), and transaction performance. Application monitoring tools collect and analyze data to detect anomalies, provide alerts for potential problems, and offer detailed insights into application behavior and performance. By monitoring applications, organizations can proactively address issues, optimize performance, and improve user experience, ultimately ensuring reliability and efficiency in their software systems.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Applying Basic vs. Advanced Monitoring Techniques",
-        "url": "https://thenewstack.io/applying-basic-vs-advanced-monitoring-techniques/",
-        "type": "article"
-      },
-      {
-        "title": "Why Legacy Apps Need Your Monitoring Love, Too",
-        "url": "https://thenewstack.io/why-legacy-apps-need-your-monitoring-love-too/",
-        "type": "article"
-      },
-      {
-        "title": "Explore top posts about Monitoring",
-        "url": "https://app.daily.dev/tags/monitoring?ref=roadmapsh",
-        "type": "article"
-      },
-      {
-        "title": "Application Monitoring - 4 Golden Signals",
-        "url": "https://www.youtube.com/watch?v=PHcnmTdVPT0",
-        "type": "video"
-      }
-    ]
+  "observability@wNguM6-YEznduz3MgBCYo.md": {
+    "title": "Observability",
+    "description": "",
+    "links": []
   },
   "8rd7T5ahK2I_zh5co-IF-": {
     "title": "Jaeger",
@@ -3346,5 +3272,40 @@
         "type": "video"
       }
     ]
+  },
+  "eso@lUUJAEBrGJvL8dRs2n1GD.md": {
+    "title": "ESO",
+    "description": "",
+    "links": []
+  },
+  "dynatrace@4aJVaimsuvGIPXMZ_WjaA.md": {
+    "title": "Dynatrace",
+    "description": "",
+    "links": []
+  },
+  "salt@Kumwd6XOlEMeDohDH0q9P.md": {
+    "title": "Salt",
+    "description": "",
+    "links": []
+  },
+  "openshift@3GryoQuI67JTHg9r3xUHO.md": {
+    "title": "OpenShift",
+    "description": "",
+    "links": []
+  },
+  "render@DjDR8Yn5Q55NvoihElj7m.md": {
+    "title": "Render",
+    "description": "",
+    "links": []
+  },
+  "railway@e0CIteRMxc0DydKEJnMhp.md": {
+    "title": "Railway",
+    "description": "",
+    "links": []
+  },
+  "buildkite@1du8Q2pRZM82ri6jBy5T7.md": {
+    "title": "Buildkite",
+    "description": "",
+    "links": []
   }
 }
